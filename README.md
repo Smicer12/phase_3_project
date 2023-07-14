@@ -17,6 +17,8 @@ The objective of this project is to understand how the following factors affect 
 * Doctors Recommendation
 
 ### Data Understanding
+Our dataset had the following columns
+
 `seasonal_vaccine` - Whether respondent received seasonal flu vaccine.( 0 = No; 1 = Yes)
 
 `h1n1_vaccine` - Whether respondent received H1N1 flu vaccine. ( 0 = No; 1 = Yes)
