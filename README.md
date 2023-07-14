@@ -15,3 +15,6 @@ The objective of this project is to understand how the following factors affect 
 * Opinions & Perceptions
 * Demographics - Age, Education, Employment status & Income levels iii) Behavioral - Handwashing, masking and avoiding large crowds.
 * Doctors Recommendation
+
+### Data Understanding
+$ghjj$
