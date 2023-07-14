@@ -11,7 +11,7 @@ Despite the availability and effectiveness of flu vaccines, there are still sign
 The project aims to analyze and uncover the factors that influence individuals' decision-making processes regarding getting vaccinated against the seasonal flu. By gaining insights into these factors,governments and healthcare organizations can develop targeted strategies and interventions to increase vaccination rates and improve public health outcomes.
 
 ### Project goals
-In this data science project, the objective is to understand how the following factors affect H1N1 & Seasonal flu vaccination rates.
-* i) Opinions & Perceptions
-* ii) Demographics - Age, Education, Employment status & Income levels iii) Behavioral - Handwashing, masking and avoiding large crowds.
-* iv) Doctors Recommendation
+The objective of this project is to understand how the following factors affect H1N1 & Seasonal flu vaccination rates.
+* Opinions & Perceptions
+* Demographics - Age, Education, Employment status & Income levels iii) Behavioral - Handwashing, masking and avoiding large crowds.
+* Doctors Recommendation
