@@ -28,7 +28,8 @@ The outputs of this project will provide actionable insights for businesses and 
 
 ***
 ### Data Understanding
-The dataset used in our project had the following columns/features
+The dataset used in our project had the following columns/features.
+Our initial data had 26707 rows and 37 columns
 
 `seasonal_vaccine` - Whether respondent received seasonal flu vaccine.( 0 = No; 1 = Yes)
 
@@ -101,3 +102,15 @@ opinion_seas_risk - Respondent's opinion about risk of getting sick with seasona
 `employment_industry` - Type of industry respondent is employed in. Values are represented as short random character strings.
 
 `employment_occupation` - Type of occupation of respondent. Values are represented as short random character strings.
+
+***
+### Data processing
+This stage focussed on data cleaning in preparation for analysis. This included;
+* Checking for duplicates. Duplicated rows and columns were removed
+* Checking for missing values. Columns with very high number of missing values were dropped
+* Replacement of categorical variables with numeric values
+* Populating the NULLs/NaNs with suitable substitutes
+
+***
+### Exploratory Data Analysis
+
