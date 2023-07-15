@@ -2,14 +2,14 @@
 ![flu-vaccine.jpg](flu-vaccine.jpg)
 
 ### Table of contents 
- - [Business Problem Understanding](Business Problem Understanding)
+ - [Business Problem Understanding](#Business-Problem-Understanding)
  - [Introduction](#Introduction)
- - [Business goals](#Business goals)
- - [Project goals](#Project goals)
- - [Potential Project Outputs](#Potential Project Outputs)
- - [Data Understanding](#Data Understanding)
- - [Data processing](#Data processing)
- - [Exploratory Data Analysis](#Exploratory Data Analysis)
+ - [Business goals](#Business-goals)
+ - [Project goals](#Project-goals)
+ - [Potential Project Outputs](#Potential-Project-Outputs)
+ - [Data Understanding](#Data-Understanding)
+ - [Data processing](#Data-processing)
+ - [Exploratory Data Analysis](#Exploratory-Data-Analysis)
  
 ### Business Problem Understanding
 #### Introduction
