@@ -18,8 +18,15 @@ The objective of this project is to understand how the following factors affect 
 * Doctors Recommendation
 
 ***
+### Potential Project Outputs
+possible deliverables from this project may include;
+* **Identification of key factors influencing vaccination decisions** - This information can help in guiding the development of targeted campaigns and interventions.
+* **Segmentation of the target population:** Segmentation can help tailor messages and interventions to specific groups, considering their unique characteristics and needs.
+* **Prediction models:** These model will assist in forecasting future vaccination rates and evaluating the effectiveness of intervention strategies.
+
+***
 ### Data Understanding
-Our dataset had the following columns/features
+The dataset used in our project had the following columns/features
 
 `seasonal_vaccine` - Whether respondent received seasonal flu vaccine.( 0 = No; 1 = Yes)
 
