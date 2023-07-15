@@ -1,6 +1,16 @@
-# Phase_3_Project
-![flu-vaccine.jpg](https://github.com/Smicer12/phase_3_project/blob/master/flu-vaccine.jpg) 
+# Phase 3 Group Project
+![flu-vaccine.jpg](flu-vaccine.jpg)
 
+### Table of contents 
+ - [Business Problem Understanding]
+ - [Introduction]
+ - [Business goals]
+ - [Project goals]
+ - [Potential Project Outputs]
+ - [Data Understanding]
+ - [Data processing]
+ - [Exploratory Data Analysis]
+ 
 ### Business Problem Understanding
 #### Introduction
 The world has recently experienced the impact of major flu outbreaks like the COVID-19, Swine Flu (H1N1) and the Avian Flu(H5N1). The effect of any flu outbreak depends on the type of flu and its respective variants, the population demographics like age, and other underlying health conditions of the individual. In the US, seasonal flu places a substantial burden on the health of people in the United States each year. CDC estimates that flu has resulted in 9 million – 41 million illnesses, 140,000 – 710,000 hospitalizations and 12,000 – 52,000 deaths annually between 2010 and 2020. The results obtained from CDC website also shows that the vaccination rates have remained low with an overall average of 57.8% as of 2022.
