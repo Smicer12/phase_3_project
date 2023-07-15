@@ -132,15 +132,15 @@ This stage focussed on data cleaning in preparation for analysis. This included;
 below is an overview of some of the factors affecting vaccination rates.
 ![graph](background.png)
 
-Elderly people were more likely to receive vaccines compared to the rest of the age group. this can be attributed to low immune of the elderly people resulting high risk of flu transmissions. On the contrary, younger people have stronger immune making them less prone to contracting flu.
+Elderly people were more likely to receive vaccines compared to the rest of the age groups. This can be attributed to low immune of the elderly people resulting in high risk of flu transmissions. On the contrary, younger people have stronger immune making them less prone to contracting flu.
 
-college graduates made the majority of those who received vaccination probably due to increased awareness on the importance of vaccination compared to other educational levels.
+College graduates made the majority of those who received vaccination probably due to increased awareness on the importance of vaccination compared to other educational levels.
 
 Black people are unlikely to receive vaccination compared to other races probably due to cultural differences.
 
-Reletively number equal of men and women recived H1N1 vaccine. However, slighty more women received Seasonal vaccine compared to men. There is no enough evidence to support that women have higher probability of being vaccinated. the slight difference noted can be attributed to such errors as misclassification.
+Relatively  equal number of men and women received H1N1 vaccine. However, slighty more women received Seasonal Vaccine compared to men. There is no enough evidence to support that women have higher probability of being vaccinated. The slight difference noted can be attributed to such errors as misclassification.
 
-people not in labor force, that is, individuals who are not employed and are not actively seeking employment eg retirees have higher chances of getting vaccinated compared to other workforce. This can be attributed to more awareness of the risks associated with influenza and are more likely to prioritize vaccination to protect their health.
+People not in labor force, that is, individuals who are not employed and are not actively seeking employment eg retirees have higher chances of getting vaccinated compared to other workforce. This can be attributed to more awareness of the risks associated with influenza and are more likely to prioritize vaccination to protect their health.
 
 
 
