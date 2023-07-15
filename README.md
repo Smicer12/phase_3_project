@@ -131,7 +131,8 @@ This stage focussed on data cleaning in preparation for analysis. This included;
 ### Exploratory Data Analysis
 below is an overview of some of the factors affecting vaccination rates.
 ![graph](background.png)
-Generally elderly people were more likely to receive vaccines compared to the rest of the age group. this can be attributed to low immune of the elderly people resulting high risk of flu transmissions. On the contrary, younger people have stronger immune making them less prone to contracting flu.
+
+Elderly people were more likely to receive vaccines compared to the rest of the age group. this can be attributed to low immune of the elderly people resulting high risk of flu transmissions. On the contrary, younger people have stronger immune making them less prone to contracting flu.
 
 college graduates made the majority of those who received vaccination probably due to increased awareness on the importance of vaccination compared to other educational levels.
 
