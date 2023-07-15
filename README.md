@@ -19,6 +19,7 @@ Despite the availability and effectiveness of flu vaccines, there are still sign
 
 ### Target Variables
 `h1n1_vaccine` - Whether respondent received H1N1 flu vaccine. ( 0 = No; 1 = Yes)
+
 `seasonal_vaccine` - Whether respondent received seasonal flu vaccine.( 0 = No; 1 = Yes)
 
 ***
