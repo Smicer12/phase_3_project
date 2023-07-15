@@ -123,6 +123,6 @@ This stage focussed on data cleaning in preparation for analysis. This included;
 
 ***
 ### Exploratory Data Analysis
-asdfgcvb 
+below is an overview of some of the factors affecting vaccination rates
 ![graph](background.png)
 
