@@ -8,7 +8,7 @@ The world has recently experienced the impact of major flu outbreaks like the CO
 Despite the availability and effectiveness of flu vaccines, there are still significant portions of the population who choose not to get vaccinated. To address this problem, it is crucial to investigate the reasons behind these decisions and identify the key factors driving individuals' opinions, perceptions, and behaviors related to flu vaccination.
 
 ### Business goals
-The project aims to analyze and uncover the factors that influence individuals' decision-making processes regarding getting vaccinated against the seasonal flu. By gaining insights into these factors,governments and healthcare organizations can develop targeted strategies and interventions to increase vaccination rates and improve public health outcomes.
+The main aims is to analyze and uncover the factors that influence individuals' decision-making processes regarding getting vaccinated against Seasonal flu. By gaining insights into these factors,governments and healthcare organizations can develop targeted strategies and interventions to increase vaccination rates and improve public health outcomes.
 
 ***
 ### Project goals
@@ -19,7 +19,7 @@ The objective of this project is to understand how the following factors affect 
 
 ***
 ### Data Understanding
-Our dataset had the following columns
+Our dataset had the following columns/features
 
 `seasonal_vaccine` - Whether respondent received seasonal flu vaccine.( 0 = No; 1 = Yes)
 
