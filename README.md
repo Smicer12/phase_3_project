@@ -1,5 +1,5 @@
 # Phase_3_Project
-![flu-vaccine.jpg](attachment:flu-vaccine.jpg)
+![flu-vaccine.jpg](https://github.com/Smicer12/phase_3_project/blob/master/flu-vaccine.jpg) 
 
 ### Business Problem Understanding
 #### Introduction
