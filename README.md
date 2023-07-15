@@ -123,6 +123,6 @@ This stage focussed on data cleaning in preparation for analysis. This included;
 
 ***
 ### Exploratory Data Analysis
-asdfg
+asdfgcvb 
 ![graph](images/background)
 
