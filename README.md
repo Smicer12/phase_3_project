@@ -190,4 +190,4 @@ iv) Respondent's opinion about risk of getting sick with H1N1
 
 ***
 ### Limitations
-The dataset used was obtained eletronically and had some limitations, for example, the geographic location information was encrypted and couldn't be read. We subsituted it with the alphabetts A-Z.
+The dataset used was obtained eletronically and had some limitations, for example, the geographic location information was encrypted and couldn't be read. We subsituted it with the alphabets A-Z.
