@@ -29,7 +29,7 @@ Despite the availability and effectiveness of flu vaccines, there are still sign
 
 ***
 ### Business goals
-The main aims is to analyze and uncover the factors that influence individuals' decision-making processes regarding getting vaccinated against Seasonal flu. By gaining insights into these factors,governments and healthcare organizations can develop targeted strategies and interventions to increase vaccination rates and improve public health outcomes.
+The main aims is to analyze and uncover the factors that influence individuals' decision-making processes regarding getting vaccinated against flu. By gaining insights into these factors,governments and healthcare organizations can develop targeted strategies and interventions to increase vaccination rates and improve public health outcomes.
 
 ***
 ### Project goals
