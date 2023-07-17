@@ -46,7 +46,7 @@ possible deliverables from this project may include;
 * **Segmentation of the target population:** Segmentation can help tailor messages and interventions to specific groups, considering their unique characteristics and needs.
 * **Prediction models:** These model will assist in forecasting future vaccination rates and evaluating the effectiveness of intervention strategies.
 
-The outputs of this project will provide actionable insights for businesses and healthcare organizations to increase seasonal flu vaccination rates. 
+The outputs of this project will provide actionable insights for businesses and healthcare organizations to increase vaccination rates. 
 
 ***
 ### Data Understanding
