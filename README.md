@@ -148,17 +148,26 @@ Relatively  equal number of men and women received H1N1 vaccine. However, slight
 
 People not in labor force, that is, individuals who are not employed and are not actively seeking employment eg retirees have higher chances of getting vaccinated compared to other workforce. This can be attributed to more awareness of the risks associated with influenza and are more likely to prioritize vaccination to protect their health.
 
+***
 ### Modelling
 
-The group developed several models using different features in the dataset in order to predict the likelihood of an individual going for H1N1 vaccine or Seasonal Flu Vaccines. The following models were built:
+We developed several models using different features in the dataset in order to predict the likelihood of an individual going for H1N1 vaccine or Seasonal Flu Vaccines. The following models were built:
  1. KNN
  2. Decision Trees
  3. Logistics Regression
  4. Random Forest
  5. Naive Bayes
+ 
+ The models had different lveels of accuracy. ROC/AUC curves Logistic Regression and the RandomForest had the highest ROC and Accuracy scores. The Logistic Regression had a score of 81% and 84% for H1N1 and Seasonal Vaccine respectively while the Random Forest Classifier had scores of 80% and 83% for H1N1 and Seasonal Vacc respectively. Since the Logistic Regression was the baseline model, we chose to go with Random Forest Classifier which has ROC score of 83%.
+ 
+To improve the models perfomance we decided to do Hyper Parameter tuning using GridSearch.
+ 
 #### Training the model
 The model was trained with training features (X_train) and training labels (y_train). The model was given some new data it hasn't seen before (X_test) to evaluate how well it classifies the new data. The data was split into training and testing. 80% of the dataset was used for training and the remaining 20% for testing.
 
+MinMaxScaler was used to transform the dataset by scaling each feature to a range between 0 to 1.
+
+***
 ### Conclusion
 
 The chart above explains the degree to which opinions, perceptions and other behavioral characteristics affect Vaccine uptake. The following top 4 features had the most effect on vaccine uptake
@@ -171,13 +180,14 @@ iii) Respondent's opinion about seasonal flu vaccine effectiveness
 
 iv) Respondent's opinion about risk of getting sick with H1N1
 
-
+***
 ### Recommendations
 **-Mass and grassroot sensitization:** Stakeholders should invest in mass and grassroot sensitization about H1N1 and the seasonal flu vaccine led by healthcare professionals. They should be educated on the vaccine efficacy and dangers of not getting it.
 
 **-Healthcare Provider Recommendations:** Encouraging healthcare providers to actively recommend and offer H1N1 and seasonal vaccination to their patients can significantly impact vaccine uptake. The stakeholders can provide training and resources to healthcare professionals to increase their knowledge and confidence in recommending the vaccine.
 
-**-Collaboration and Partnerships:** Collaborating with community organizations, schools, workplaces, and other stakeholders can amplify efforts to promote H1N1 vaccination. Engaging influencers, community leaders, and trusted voices within different communities can help build trust and increase acceptance of the vaccine
+**-Collaboration and Partnerships:** Collaborating with community organizations, schools, workplaces, and other stakeholders can amplify efforts to promote H1N1 vaccination. Engaging influencers, community leaders, and trusted voices within different communities can help build trust and increase acceptance of the vaccine. 
 
+***
 ### Limitations
-
+The dataset used was obtained eletronically and had some limitations, for example, the geographic location information was encrypted and couldn't be read. We subsituted it with the alphabetts A-Z.
