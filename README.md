@@ -138,13 +138,13 @@ This stage focussed on data cleaning in preparation for analysis. This included;
 below is an overview of some of the factors affecting vaccination rates.
 ![graph](background.png)
 
-Elderly people were more likely to receive vaccines compared to the rest of the age groups. This can be attributed to low immune of the elderly people resulting in high risk of flu transmissions. On the contrary, younger people have stronger immune making them less prone to contracting flu.
+Elderly people were more likely to receive vaccines compared to the rest of the age groups. This can be attributed to decreased immunity in the elderly people resulting in high risk of flu transmissions. On the contrary, younger people have a stronger immunity making them less prone to contracting the flu.
 
 College graduates made the majority of those who received vaccination probably due to increased awareness on the importance of vaccination compared to other educational levels.
 
 Black people are unlikely to receive vaccination compared to other races probably due to cultural differences.
 
-Relatively  equal number of men and women received H1N1 vaccine. However, slighty more women received Seasonal Vaccine compared to men. There is no enough evidence to support that women have higher probability of being vaccinated. The slight difference noted can be attributed to such errors as misclassification.
+Relatively  equal number of men and women received H1N1 vaccine. However, slighty more women received Seasonal Vaccine compared to men. There is not enough evidence to support that women have higher probability of being vaccinated. The slight difference noted can be attributed to errors such as misclassification.
 
 People not in labor force, that is, individuals who are not employed and are not actively seeking employment eg retirees have higher chances of getting vaccinated compared to other workforce. This can be attributed to more awareness of the risks associated with influenza and are more likely to prioritize vaccination to protect their health.
 
@@ -158,7 +158,7 @@ We developed several models using different features in the dataset in order to 
  4. Random Forest
  5. Naive Bayes
  
- The models had different lveels of accuracy. ROC/AUC curves Logistic Regression and the RandomForest had the highest ROC and Accuracy scores. The Logistic Regression had a score of 81% and 84% for H1N1 and Seasonal Vaccine respectively while the Random Forest Classifier had scores of 80% and 83% for H1N1 and Seasonal Vacc respectively. Since the Logistic Regression was the baseline model, we chose to go with Random Forest Classifier which has ROC score of 83%.
+ The models had different levels of accuracy. ROC/AUC curves Logistic Regression and the RandomForest had the highest ROC and Accuracy scores. The Logistic Regression had a score of 81% and 84% for H1N1 and Seasonal Vaccine respectively while the Random Forest Classifier had scores of 80% and 83% for H1N1 and Seasonal Vacc respectively. Since the Logistic Regression was the baseline model, we chose to go with Random Forest Classifier which has ROC score of 83%.
  
 To improve the models perfomance we decided to do Hyper Parameter tuning using GridSearch.
  
@@ -170,7 +170,7 @@ MinMaxScaler was used to transform the dataset by scaling each feature to a rang
 ***
 ### Conclusion
 
-The chart above explains the degree to which opinions, perceptions and other behavioral characteristics affect Vaccine uptake. The following top 4 features had the most effect on vaccine uptake
+The following top 4 features had the most effect on vaccine uptake
 
 i) Respondent's opinion about risk of getting sick with seasonal flu without vaccine
 
