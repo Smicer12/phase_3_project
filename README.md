@@ -10,6 +10,11 @@
  - [Data Understanding](#Data-Understanding)
  - [Data processing](#Data-processing)
  - [Exploratory Data Analysis](#Exploratory-Data-Analysis)
+ - [Modelling](#Modelling)
+ - [Training the model](#Training-the-model)
+ - [Conclusion](#Conclusion)
+ - [Recommendations](#Recommendations)
+ - [Limitations](#Limitations)
  
 ### Business Problem Understanding
 #### Introduction
@@ -145,12 +150,34 @@ People not in labor force, that is, individuals who are not employed and are not
 
 ### Modelling
 
-The group several models using different features in the data in order to predict the likelihood of an individual going for H1N1 vaccine or Seasonal Flu Vaccines. The following models were built:
+The group developed several models using different features in the dataset in order to predict the likelihood of an individual going for H1N1 vaccine or Seasonal Flu Vaccines. The following models were built:
  1. KNN
  2. Decision Trees
  3. Logistics Regression
  4. Random Forest
  5. Naive Bayes
+#### Training the model
+The model was trained with training features (X_train) and training labels (y_train). The model was given some new data it hasn't seen before (X_test) to evaluate how well it classifies the new data. The data was split into training and testing. 80% of the dataset was used for training and the remaining 20% for testing.
+
+### Conclusion
+
+The chart above explains the degree to which opinions, perceptions and other behavioral characteristics affect Vaccine uptake. The following top 4 features had the most effect on vaccine uptake
+
+i) Respondent's opinion about risk of getting sick with seasonal flu without vaccine
+
+ii) Age group
+
+iii) Respondent's opinion about seasonal flu vaccine effectiveness
+
+iv) Respondent's opinion about risk of getting sick with H1N1
 
 
+### Recommendations
+**-Mass and grassroot sensitization:** Stakeholders should invest in mass and grassroot sensitization about H1N1 and the seasonal flu vaccine led by healthcare professionals. They should be educated on the vaccine efficacy and dangers of not getting it.
+
+**-Healthcare Provider Recommendations:** Encouraging healthcare providers to actively recommend and offer H1N1 and seasonal vaccination to their patients can significantly impact vaccine uptake. The stakeholders can provide training and resources to healthcare professionals to increase their knowledge and confidence in recommending the vaccine.
+
+**-Collaboration and Partnerships:** Collaborating with community organizations, schools, workplaces, and other stakeholders can amplify efforts to promote H1N1 vaccination. Engaging influencers, community leaders, and trusted voices within different communities can help build trust and increase acceptance of the vaccine
+
+### Limitations
 
