@@ -143,7 +143,14 @@ Relatively  equal number of men and women received H1N1 vaccine. However, slight
 
 People not in labor force, that is, individuals who are not employed and are not actively seeking employment eg retirees have higher chances of getting vaccinated compared to other workforce. This can be attributed to more awareness of the risks associated with influenza and are more likely to prioritize vaccination to protect their health.
 
+### Modelling
 
+The group several models using different features in the data in order to predict the likelihood of an individual going for H1N1 vaccine or Seasonal Flu Vaccines. The following models were built:
+ 1. KNN
+ 2. Decision Trees
+ 3. Logistics Regression
+ 4. Random Forest
+ 5. Naive Bayes
 
 
 
