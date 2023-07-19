@@ -1,5 +1,5 @@
-# Phase 3 Group Project
-![flu-vaccine.jpg](images/flu-vaccine.jpg)
+# Phase 3 Group Project....
+![flu-vaccine.jpg](Images/flu-vaccine.jpg)
 
 ### Table of contents 
  - [Business Problem Understanding](#Business-Problem-Understanding)
@@ -136,7 +136,7 @@ This stage focussed on data cleaning in preparation for analysis. This included;
 ***
 ### Exploratory Data Analysis
 below is an overview of some of the factors affecting vaccination rates.
-![graph](images/background.png)
+![graph](Images/background.png)
 
 Elderly people were more likely to receive vaccines compared to the rest of the age groups. This can be attributed to decreased immunity in the elderly people resulting in high risk of flu transmissions. On the contrary, younger people have a stronger immunity making them less prone to contracting the flu.
 
